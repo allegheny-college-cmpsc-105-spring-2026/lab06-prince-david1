@@ -4,7 +4,7 @@ project:
 
 website:
   title: EXPLORER
-  google-analytics: TODO
+  google-analytics: G-J67WM30BFH
   navbar:
     left:
       - href: index.qmd
