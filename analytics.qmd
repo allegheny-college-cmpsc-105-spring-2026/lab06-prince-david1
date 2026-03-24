@@ -2,7 +2,7 @@
 title: "Analytics"
 ---
 
-- TODO: Make a google analytics account if you have not already done so
+- Make a google analytics account if you have not already done so
   - go to [https://analytics.google.com](https://analytics.google.com)
   - under settings, you should be able to make an account
   - then make a specific property for your website
@@ -10,7 +10,7 @@ title: "Analytics"
     - click on web ![](/images/google-analytics.png)
     - paste in your website's url 
 
-- TODO: in `_quarto.yml` update the Google Analytics tracking number on line 7 with the
+-  in `_quarto.yml` update the Google Analytics tracking number on line 7 with the
   tracking number that Google Analytics provides.
 
 - Please save your work and check that the tracking number is working before continuing
