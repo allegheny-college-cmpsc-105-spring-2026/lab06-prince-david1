@@ -21,7 +21,7 @@ them your data! [All urls from classmates' websites](https://docs.google.com/spr
 
 Please do at least every survey!
 
-TODO: Check off those that you have done.
+Check off those that you have done.
 
 You can now check to see your data. If you have responses from 15+ people,
 download the CSV files using the names `data_survey.csv` and `data_analytics.csv`.
