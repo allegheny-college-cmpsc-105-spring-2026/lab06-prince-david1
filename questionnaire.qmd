@@ -4,29 +4,29 @@ title: Questionnaire
 
 What you see below is a sample Google Form.
 
-TODO: In your own Google Account, please create your own form to gather data
+In your own Google Account, please create your own form to gather data
 from your classmates when they visit your website.
 
-TODO: Read through the sample instructions, then continue.
+Read through the sample instructions, then continue.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemyqPpCB4cOmPxMEaZqm_RRrFTz7Keqm6ZpSx4ahnVl-jUFg/viewform?embedded=true" width="640" height="630" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-TODO: To embed your own form, replace the link with your own form's `embed link`.
+To embed your own form, replace the link with your own form's `embed link`.
 To get the `embed link`, on the google form creation page, click on the three
 vertical dots on the far right. There you will see an option for the embed code.
 Copy the code and swap it in for the equivalent code above. 
 
-TODO: At this point, check to see who has their surveys up, and go ahead and give
+At this point, check to see who has their surveys up, and go ahead and give
 them your data! [All urls from classmates' websites](https://docs.google.com/spreadsheets/d/1GN56_SIKfx-Zm2uy1NlohMkewvm0_7Xi/edit?usp=sharing&ouid=103917440767036558099&rtpof=true&sd=true) can be found at the link.
 
-TODO: Please do at least every survey!
+Please do at least every survey!
 
 TODO: Check off those that you have done.
 
-TODO: You can now check to see your data. If you have responses from 15+ people,
+You can now check to see your data. If you have responses from 15+ people,
 download the CSV files using the names `data_survey.csv` and `data_analytics.csv`.
 
-TODO: If you reupload those files into your GitHub Repos under the data directory,
+If you reupload those files into your GitHub Repos under the data directory,
 the `Data` tab should show your data!!
 
-TODO: Now find the ipynb file in your GitHub repo and continue with the TODOs.
+Now find the ipynb file in your GitHub repo and continue with the TODOs.
