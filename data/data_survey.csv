@@ -1,0 +1,14 @@
+# ----------------------------------------
+# Pages and screens: Page path and screen class
+# Account: Prince Dwamena
+# Property: Lab 6 - Prince Explorer
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260224
+# End date: 20260323
+Page path and screen class,Views,Active users,Views per active user,Average engagement time per active user,Event count,Key events,Total revenue
+/lab06-prince-david1/,12,8,1.5,2.125,40,0,0
+/lab06-prince-david1/questionnaire.html,9,6,1.5,3.6666666666666665,22,0,0
+/lab06-prince-david1/data.html,1,1,1,1,3,0,0
+/lab06-prince-david1/report.html,1,1,1,2,3,0,0
