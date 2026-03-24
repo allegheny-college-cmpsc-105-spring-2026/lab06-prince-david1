@@ -2,28 +2,39 @@
 title: Report
 ---
 
-TODO: Write your report in this `report.qmd` file using markdown syntax.
+Write your report in this `report.qmd` file using markdown syntax.
 
 ## What this was lab about
 
-TODO: Briefly summarize what this lab was about and what you did at a high level.
+This lab focused on exploratory data analysis using two different datasets: one derived from a class survey regarding Spring Break experiences and another from Google Analytics tracking site usage. The goal was to practice loading CSV data into Pandas DataFrames, cleaning the data, and creating visualizations to identify trends.
 
 ## Methods
 
-TODO: Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
+Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
+
+I used the pandas library to load the data and matplotlib.pyplot to generate visual representations.
+
+Data Cleaning: I used dropna() and pd.to_numeric() to handle missing values and ensure the "Views" column was treated as a number.
+
+Visualization: I utilized plt.bar() to create bar charts, which helped in comparing categorical data like locations and page paths.
 
 ## Findings
 
-TODO: Briefly restate what you found out about your classmates by exploring the data. 
+ Briefly restate what you found out about your classmates by exploring the data. 
+Classmates: As shown in Figure 2: Break Satisfaction Scores by Location, students who spent their break in Florida or at home in Cranberry reported the highest satisfaction scores (9 and 10).
 
-TODO: Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
+Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
+Site Usage: As shown in Figure 1: Page Views by Screen Class, I analyzed which pages received the most traffic. (Note: Check your Figure 1 graph in Colab to see which specific page had the highest blue bar—likely your "Home" or "Lab" page).
 
 Please refer to the figures you made in the notebook by title. For example, "As shown in figure 1..."
 
 ## Discussion
 
-TODO: Briefly mention how data gathering can help you answer specific questions.
+ Briefly mention how data gathering can help you answer specific questions.
+Data gathering allows us to move past assumptions and see actual behavior. For example, instead of guessing if people liked their break, the survey data provides a concrete Satisfaction Score that we can link to specific locations
 
 ## Future directions
 
-TODO: Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+ Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+
+In the future, I could explore the Average engagement time from the Google Analytics data. By comparing the time spent on a page versus the number of views, I could determine which specific parts of the lab instructions were the most challenging or time-consuming for users.
